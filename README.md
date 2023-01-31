@@ -10,7 +10,7 @@ sltc_falcon  group project  , employee management system
 - AA1948 - Aqeel Ahamadh
 - AA1898- S.A.S.A Dissanayake
 - AA2075- Tharushi Umayanga
-- AA1679- Mihisanka Sadudeeptha
+- AA1822 - M.M.R.Y.M.B Amarathunga
 - AA1906 - S.P.N.M.PERERA
 
 
