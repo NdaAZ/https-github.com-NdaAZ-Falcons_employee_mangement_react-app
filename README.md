@@ -1,7 +1,7 @@
 # Falcons_employee_mangement_react-app
 sltc_falcon  group project  , employee management system
  -----------
- Group members
+ Group members [team falcon]
 - AA1683 - K.S.Winodahewa
 - AA1679 - E.M.M.S Ekanayaka
 - AA2099 - G.S.K Abeywickrama
