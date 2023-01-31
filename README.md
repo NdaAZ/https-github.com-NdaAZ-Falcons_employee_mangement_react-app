@@ -2,6 +2,16 @@
 sltc_falcon  group project  , employee management system
  -----------
  Group members
+- AA1683 - K.S.Winodahewa
+- AA1679 - E.M.M.S Ekanayaka
+- AA2099 - G.S.K Abeywickrama
+- AA1874 - Nayani Nawarathne
+- AA1897 -  R.M.J.N.Kumari Rajapaksha
+- AA1948 - Aqeel Ahamadh
+- AA1898- S.A.S.A Dissanayake
+- AA2075- Tharushi Umayanga
+- AA1679- Mihisanka Sadudeeptha
+- AA1906 - S.P.N.M.PERERA
 
 
 
