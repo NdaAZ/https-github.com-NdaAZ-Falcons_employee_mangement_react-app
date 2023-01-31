@@ -35,11 +35,11 @@ const userItems = [
     path: "/Employee/leaverequests",
     icon: <PortraitOutlinedIcon />,
   },
-  {
-    name: "Event Calender",
-    path: "/EventCalander",
-    icon: <CalendarMonthIcon />,
-  },
+  // {
+  //   name: "Event Calender",
+  //   path: "/EventCalander",
+  //   icon: <CalendarMonthIcon />,
+  // },
   {
     name: "Contacts",
     path: "/Employee/Contact",
@@ -68,11 +68,11 @@ const adminItems = [
     path: "/LeaveManagement",
     icon: <AssignmentIndOutlinedIcon />,
   },
-  {
-    name: "Event Calender",
-    path: "/EventCalander",
-    icon: <CalendarMonthIcon />,
-  },
+  // {
+  //   name: "Event Calender",
+  //   path: "/EventCalander",
+  //   icon: <CalendarMonthIcon />,
+  // },
   {
     name: "Contacts",
     path: "/Employee/Contact",

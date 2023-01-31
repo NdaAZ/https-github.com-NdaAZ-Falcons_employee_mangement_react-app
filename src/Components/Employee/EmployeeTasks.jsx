@@ -28,7 +28,7 @@ export default class employeeTasks extends Component {
       });
     // sessionStorage.getItem("Emp_id");
     this.state.Emp_id = sessionStorage.getItem("Emp_id");
-    this.state.EmpFist_Name = sessionStorage.getItem("EmpFist_Name");
+    // this.state.EmpFist_Name = sessionStorage.getItem("EmpFist_Name");
   }
 
   //
@@ -79,6 +79,8 @@ export default class employeeTasks extends Component {
   };
 
   render() {
+    this.state.EmpFist_Name = sessionStorage.getItem("EmpFist_Name");
+    this.state.Emp_id = sessionStorage.getItem("Emp_id");
     const {
       MyTask,
       Emp_id,
@@ -186,7 +188,7 @@ export default class employeeTasks extends Component {
                       type="number"
                       disabled={true}
                       className="form-control"
-                      value={Emp_id}
+                      value={this.state.Emp_id}
                       // onChange={this.changeEmpfirstName}
                     />
                     {/* <span className="input-group-text">Status id</span>
@@ -196,19 +198,19 @@ export default class employeeTasks extends Component {
                       value={Status_id}
                       onChange={this.changeStatus_id}
                     /> */}
-                    <span className="input-group-text">Status</span>
-                    <input
-                      type="text"
-                      className="form-control"
-                      value={Status}
-                      onChange={this.changeStatus}
-                    />
                     <span className="input-group-text">Task id</span>
                     <input
                       type="number"
                       className="form-control"
                       value={Task_ID}
                       onChange={this.changeTask_ID}
+                    />
+                    <span className="input-group-text">Status</span>
+                    <input
+                      type="text"
+                      className="form-control"
+                      value={Status}
+                      onChange={this.changeStatus}
                     />
                   </div>
                   <div className="input-group mb-3">
