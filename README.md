@@ -30,7 +30,7 @@ Technology used :
 - REACT JS
 - .netcore 3.1 web API 
 - MS SQL DB
-
+- visual studio code
 -------------
 
 The different part or module of this project is as follows:
