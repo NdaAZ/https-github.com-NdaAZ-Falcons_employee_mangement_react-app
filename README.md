@@ -1,13 +1,16 @@
 # Falcons_employee_mangement_react-app
-sltc_falcon  group project   , employee management system
+sltc_falcon  group project  , employee management system
+ -----------
+ Group members
 
 
 
 Note: this is a repository of Employee Management System Frontend. the repository of the backend is available here: https://github.com/f/employee-management-system-API
 
 -------------
+Backend repository: https://github.com/NdaAZ/Falcons_employee_mangement_web_api
 
-Website: https://employee-management-fk.netlify.com
+Website: https://loquacious-cucurucho-cb7e57.netlify.app/
 
 -------------
 
@@ -29,7 +32,7 @@ Technology used :
 - REACT JS
 - .netcore 3.1 web API 
 - MS SQL DB
-
+- visual studio code
 -------------
 
 The different part or module of this project is as follows:
